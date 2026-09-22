@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact Us</title>
+</head>
+<body>
+
+    <h1>Contact Us</h1>
+
+    <p>Email: info@example.com</p>
+    <p>Phone: +91 9876543210</p>
+
+</body>
+</html>
